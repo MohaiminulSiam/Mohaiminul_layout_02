@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top_header{
+    background-color: darkcyan ;
+    overflow: hidden;
+    padding: 20px 0;
+    text-align: center;
+}
+.logo{
+
+    border: 2px solid black;
+    width: 28%;
+    float: left;
+
+}
+.banner{
+    border: 2px solid black;
+    width: 70%;
+    float: right;
+}
+
+header{
+    background-color: paleturquoise;
+    padding: 20px 0;
+    margin-top: 10px;
+    text-align: center;
+    border: 2px solid;
+
+}
+.content{
+    margin-top: 10px;
+    background-color: bisque;
+
+    height: 400px;
+    text-align: center;
+}
+.left_box{
+
+    width: 22%;
+
+    border: 2px solid;
+
+    float: left;
+
+    height: 100%;
+
+    box-sizing: border-box;
+}
+.center_box{
+
+    width: 52%;
+
+    border: 2px solid;
+
+    float: left;
+
+    height: 100%;
+
+    box-sizing: border-box;
+    margin-left: 2%;
+}
+.right_box{
+    
+    width: 22%;
+        
+    border: 2px solid;
+        
+    float: right;
+        
+    height: 100%;
+        
+    box-sizing: border-box;
+    margin left: 2%;
+}
+.center-top{
+
+height: 98px;
+
+border: 2px solid;
+}
+.center-middle{
+
+height: 198px;
+
+border: 2px solid;
+}
+.center-bottom{
+    height: 100px;
+    border: 2px solid;
+}
+.center-middle-left{
+
+    width: 50%;
+    border: 2px solid;
+    float: left;
+    height: 100%;
+}
+.center-middle-right{
+
+    width: 50%;
+    border: 2px solid;
+    height: 100px;
+    float: left;
+}
+.footer{
+    margin-top: 10px;
+    background-color: darkcyan ;
+    overflow: hidden;
+    padding: 20px 0;
+    text-align: center;
+    
+}
